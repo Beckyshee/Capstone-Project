@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931608185657",
+    "project_id": "handy-man-7a873",
+    "storage_bucket": "handy-man-7a873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931608185657:android:3c77c395ecf264256af6e8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_handyman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931608185657-ae3cm0p2pfl4fqa5nrr4rc3endmevrc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrolZYq9Lv90m5OXdEBJq0zc5YR2uJ60U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931608185657-ae3cm0p2pfl4fqa5nrr4rc3endmevrc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
